@@ -119,7 +119,7 @@ transition: background-color 1s currentPlayer (0, 0, 1, 1) 500ms;
 
   to {
     margin-bottom: 0%;
-    height: 30%;
+    height: 60%;
   }
 }
 /* WINNER CONTAINER */
