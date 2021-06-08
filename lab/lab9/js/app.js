@@ -175,7 +175,7 @@ function checkend(){
     if((pacman.x == ghost.x) && (pacman.y == ghost.y)){
         $('#gameover').fadeIn();
     }
-    if(score > 1850)
+    if(score > 1840)
     {
         $('#win').fadeIn();
     }
